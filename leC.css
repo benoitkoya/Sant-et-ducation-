@@ -1,0 +1,72 @@
+/* Style général */
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f9f9;
+  color: #333;
+}
+
+/* En-tête */
+header {
+  background-color: #2a9d8f;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #e9c46a;
+}
+
+/* Sections */
+.section {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.section h2 {
+  color: #264653;
+  font-size: 1.8rem;
+}
+
+.section p {
+  max-width: 700px;
+  margin: 15px auto;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.section img {
+  width: 80%;
+  max-width: 500px;
+  border-radius: 15px;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Pied de page */
+footer {
+  background-color: #264653;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 0.9rem;
+  margin-top: 40px;
+}
