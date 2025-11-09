@@ -1,2 +1,41 @@
-# Sant-et-ducation-
-Créer par Benoît koya
+
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Santé & Éducation</title>
+  <link rel="stylesheet" href="leC.css">
+</head>
+<body>
+
+  <!-- En-tête -->
+  <header>
+    <h1>🌿 Santé & Éducation</h1>
+    <nav>
+      <a href="#sante">Santé</a>
+      <a href="#education">Éducation</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Section Santé -->
+  <section id="sante" class="section">
+    <h2>Conseils Santé</h2>
+    <p>Découvrez nos conseils pour une vie plus saine : alimentation, activité physique, sommeil et bien-être mental. En cliquant sur ce lien 👉 <a href="benoit.html">Santé conseils</a></p>
+    <img src="images.png" alt="Santé">
+  </section>
+
+  <!-- Section Éducation -->
+  <section id="education" class="section">
+    <h2>Éducation pour tous</h2>
+    <p>L’éducation est la clé du développement. Retrouvez nos ressources éducatives et programmes pour tous les âges. En cliquant sur le lien   👉 <a href="education.html" target="_blank">education</a> </p>
+    <img src="Education .png" alt="Éducation">
+  </section>
+  <!-- Pied de page -->
+  <footer>
+    <p>© 2025 Santé & Éducation | Tous droits réservés</p>
+  </footer>
+
+</body>
+</html>
+
